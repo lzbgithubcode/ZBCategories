@@ -33,15 +33,15 @@ TODO: 自定义分类，包括UIKit  Foundation
   s.source_files = 'ZBCategories/Classes/ZBCategories.h'
 
   s.subspec 'Foundation' do |f|
-    f.source_files = 'TBCommonLibrary/Classes/Foundation/**/*.{h,m}'
+    f.source_files = 'ZBCategories/Classes/Foundation/**/*.{h,m}'
   end
 
   s.subspec 'QuartzCore' do |q|
-    q.source_files = 'TBCommonLibrary/Classes/QuartzCore/**/*.{h,m}'
+    q.source_files = 'ZBCategories/Classes/QuartzCore/**/*.{h,m}'
   end
 
   s.subspec 'UIKit' do |kit|
-    kit.source_files = 'TBCommonLibrary/Classes/UIKit/**/*.{h,m}'
+    kit.source_files = 'ZBCategories/Classes/UIKit/**/*.{h,m}'
   end
   
   # s.resource_bundles = {
