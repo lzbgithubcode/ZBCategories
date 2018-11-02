@@ -1,0 +1,22 @@
+PODS:
+  - ZBCategories (0.0.1):
+    - ZBCategories/Foundation (= 0.0.1)
+    - ZBCategories/QuartzCore (= 0.0.1)
+    - ZBCategories/UIKit (= 0.0.1)
+  - ZBCategories/Foundation (0.0.1)
+  - ZBCategories/QuartzCore (0.0.1)
+  - ZBCategories/UIKit (0.0.1)
+
+DEPENDENCIES:
+  - ZBCategories (from `../`)
+
+EXTERNAL SOURCES:
+  ZBCategories:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZBCategories: 6dce4beeb3d2e509d780694af90045e0a84cfdd5
+
+PODFILE CHECKSUM: 385e883c2071ba21acc14095f1ab05711b1e0f50
+
+COCOAPODS: 1.4.0
