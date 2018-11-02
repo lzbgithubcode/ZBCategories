@@ -22,7 +22,7 @@ pod 'ZBCategories'
 
 ## Author
 
-1835064412@qq.com, 18559822970
+1835064412@qq.com, liuzibin
 
 ## License
 
