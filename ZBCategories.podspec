@@ -24,7 +24,7 @@ TODO: 自定义分类，包括UIKit  Foundation
   s.homepage         = 'https://github.com/lzbgithubcode/ZBCategories'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '1835064412@qq.com' => '18559822970' }
+  s.author           = { '1835064412@qq.com' => 'liuzibin' }
   s.source           = { :git => 'https://github.com/lzbgithubcode/ZBCategories.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
